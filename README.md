@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/lucasmascarenhasyh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "lucasmascarenhas425@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mascarenhas-11296b169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/lucas.mascarenhas.165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/lucas.mascarenhas.165/" target="_blank"><<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Fbr.freepik.com%252Fpsd%252Flogo-facebook-png%26psig%3DAOvVaw1t0_CJnk3_0waZvYvKiwzn%26ust%3D1724456091017000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBQQjRxqFwoTCMiRht3hiYgDFQAAAAAdAAAAABAE" target="_blank"></a>
 </div>
